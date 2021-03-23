@@ -1,6 +1,6 @@
 ### Hi there, i'm Franco Caporaletti 👋
 
-### I'm a Full Stack Web Developer and future Movile Dev
+### I'm a Full Stack Web Developer and future Mobile Dev
 
 [![Franco-Caporaletti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Franco-Caporaletti)](https://github.com/anuraghazra/github-readme-stats)
 
