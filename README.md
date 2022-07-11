@@ -1,5 +1,8 @@
 ### Hi there, i'm Franco Caporaletti 👋
 
+### I am currently working on Humanware Applications as Frontend developer 👨‍💻.
+
+
 ### I'm a Full Stack Web Developer Jr and Mobile Dev.
 
 [![Franco-Caporaletti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Franco-Caporaletti)](https://github.com/anuraghazra/github-readme-stats)
